@@ -7,7 +7,7 @@ const About = () => {
     <section className="min-h-screen px-6 py-16 bg-gradient-to-br from-white to-slate-100 dark:from-gray-900 dark:to-gray-800 flex items-center justify-center">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-5xl font-extrabold text-gray-800 dark:text-white mb-6 tracking-tight leading-tight">
-          👋 Hey, I'm <span className="text-indigo-600 dark:text-indigo-400">Rahul Ranjan</span>
+          👋 Hey, I&apos;m <span className="text-indigo-600 dark:text-indigo-400">Rahul Ranjan</span>
         </h1>
 
         <blockquote className="border-l-4 border-indigo-500 pl-4 italic text-gray-600 dark:text-gray-300 mb-6">
@@ -15,7 +15,7 @@ const About = () => {
         </blockquote>
 
         <p className="text-lg text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
-          I'm a <span className="font-medium text-indigo-600 dark:text-indigo-400">Computer Science & AI</span> student at IIIT Lucknow who enjoys building powerful, elegant, and scalable software systems.
+          I&apos;m a <span className="font-medium text-indigo-600 dark:text-indigo-400">Computer Science & AI</span> student at IIIT Lucknow who enjoys building powerful, elegant, and scalable software systems.
           My interests lie in:
         </p>
 
@@ -26,7 +26,7 @@ const About = () => {
         </ul>
 
         <p className="text-base text-gray-600 dark:text-gray-400 mb-6">
-          I’ve worked on projects like <code className="bg-gray-100 dark:bg-gray-700 px-1 py-0.5 rounded text-sm">TalkNest</code> (a real-time chat app) and <code className="bg-gray-100 dark:bg-gray-700 px-1 py-0.5 rounded text-sm">Twix</code> (a social media platform), and I&apos;m currently exploring cloud infrastructure, sockets, and performance optimization.
+          I&apos;ve worked on projects like <code className="bg-gray-100 dark:bg-gray-700 px-1 py-0.5 rounded text-sm">TalkNest</code> (a real-time chat app) and <code className="bg-gray-100 dark:bg-gray-700 px-1 py-0.5 rounded text-sm">Twix</code> (a social media platform), and I&apos;m currently exploring cloud infrastructure, sockets, and performance optimization.
         </p>
 
         <p className="text-base text-gray-600 dark:text-gray-400 leading-relaxed">

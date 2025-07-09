@@ -22,7 +22,7 @@ export default function Home() {
         {/* Left Text Block */}
         <div className="text-center md:text-left space-y-6">
           <h1 className="text-4xl md:text-6xl font-bold leading-tight">
-            Hi, I’m <span className="text-indigo-400">Rahul Ranjan</span>
+            Hi, I&apos;m <span className="text-indigo-400">Rahul Ranjan</span>
           </h1>
           <p className="text-gray-300 text-lg max-w-lg">
             I&apos;m a passionate full-stack developer skilled in Next.js, MERN stack, and system design. I love building fast, scalable, and beautiful web apps.
