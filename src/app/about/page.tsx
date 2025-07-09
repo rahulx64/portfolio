@@ -30,7 +30,7 @@ const About = () => {
         </p>
 
         <p className="text-base text-gray-600 dark:text-gray-400 leading-relaxed">
-          In my free time, I love exploring new tools, writing technical content, and thinking about startup ideas. My goal is to contribute to impactful tech and constantly grow as a developer and innovator.
+          I n my free time, I love exploring new tools, writing technical content, and thinking about startup ideas. My goal is to contribute to impactful tech and constantly grow as a developer and innovator.
         </p>
       </div>
     </section>
